@@ -1,0 +1,3 @@
+Receipt{code=1000001, createDate=2023-09-18, type=import, items=[ItemReceipt{productCode=th, quantity=100, manufacturingDate=2021-04-06, expirationDate=2025-01-01}]}
+Receipt{code=1000002, createDate=2023-09-18, type=import, items=[ItemReceipt{productCode=abcd, quantity=20, manufacturingDate=2021-01-01, expirationDate=2025-01-01}, ItemReceipt{productCode=xyz, quantity=25, manufacturingDate=2021-01-01, expirationDate=2025-01-01}]}
+Receipt{code=1000003, createDate=2023-09-18, type=export, items=[ItemReceipt{productCode=abcd, quantity=15, manufacturingDate=null, expirationDate=null}, ItemReceipt{productCode=xyz, quantity=23, manufacturingDate=null, expirationDate=null}]}
